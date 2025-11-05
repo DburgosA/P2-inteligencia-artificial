@@ -1,5 +1,0 @@
-Modelo,Hiperparámetros,Umbral (10:1)
-k-NN,"{'n_neighbors': 15, 'weights': 'distance', 'p': 2}",0.132761
-Árbol de Decisión,"{'max_depth': 8, 'min_samples_leaf': 2, 'class_weight': 'balanced'}",0.97775
-SVM (LinearSVC),"{'C': 1.0, 'class_weight': 'balanced'}",0.511032
-Random Forest,"{'n_estimators': 80, 'max_depth': 10, 'min_samples_leaf': 1, 'class_weight': 'balanced_subsample'}",0.227419
